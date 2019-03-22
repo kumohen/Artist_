@@ -1,0 +1,55 @@
+{
+  "artists": [
+    { 
+        "id": 1,
+        "name": "Shreya Ghoshal",
+        "cover":"Shreya_Ghoshal",
+        "bio":"Shreya Ghoshal (born 12 March 1984)[2] is an Indian playback singer. She has received four National Film Awards, six Filmfare Awards including five for Best Female Playback Singer, nine Filmfare Awards South, Four Kerala State Film Awards and two Tamil Nadu State Film Awards. She has recorded songs for film music and albums in various Indian languages and has established herself as a leading playback singer of Indian cinema..",
+        "albums": [
+            {"albumId":"a1","title":"Electric Ladyland","year":1968,"cover":"electric-ladyland","price":20},
+            {"albumId":"a2","title":"Experience","year":1971,"cover":"experienced","price":25},
+            {"albumId":"a3","title":"Isle of Wright","year":1971,"cover":"isle_of_wright","price":15},
+            {"albumId":"a4","title":"Band of Gypsys","year":1970,"cover":"band_of_gypsys","price":10}
+        ],
+        "genre":"rock, blues"
+    },
+    { 
+        "id": 2,
+        "name": "Neha Kakkar ",
+        "cover":"Neha_Kakkar", 
+        "bio":"Neha Kakkar (born 6 June 1988) is an Indian singer.[4] She competed on season 2 of the television reality show Indian Idol in 2006 and was a judge on the tenth season of the same show i.e. Indian Idol 10.[3] She also appeared in Comedy Circus Ke Taansen in 2014 on Sony TV. She had judged a singing reality show on Zee TV named Sa Re Ga Ma Pa Lil Champs.",
+        "albums": [
+            {"albumId":"b1","title":"Like a Virgin","year":1984,"cover":"like_a_virgin","price":20},
+            {"albumId":"b2","title":"True Blue","year":1986,"cover":"true_blue","price":25},
+            {"albumId":"b3","title":"Erotica","year":1994,"cover":"erotica","price":15},
+            {"albumId":"b4","title":"Ray of Light","year":1998,"cover":"ray_of_light","price":10}
+        ],
+        "genre":"pop"
+    },
+    { 
+        "id": 3,
+        "name": "Johnny Cash", 
+        "cover":"johnny_cash",
+        "bio":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.", 
+        "albums": [
+            {"albumId":"c1","title":"Ain't No Grave","year":2010,"cover":"no_grave","price":20},
+            {"albumId":"c2","title":"Out Among the Stars","year":2014,"cover":"among_stars","price":25},
+            {"albumId":"c3","title":"Solitary Man","year":2000,"cover":"solitary_man","price":15},
+            {"albumId":"c4","title":"The Man Comes Around","year":2002,"cover":"man_comes_around","price":10}
+        ],
+        "genre":"pop"
+    },
+    { 
+        "id": 4,
+        "name": "Pink Floyd", 
+        "cover":"pink_floyd", 
+        "bio":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "albums": [
+            {"albumId":"d1","title":"The Wall","year":1979,"cover":"the_wall","price":20},
+            {"albumId":"d2","title":"The Dark Side of the Moon","year":1973,"cover":"dark_side","price":25},
+            {"albumId":"d3","title":"Animals","year":1977,"cover":"animals","price":15}
+        ],
+        "genre":"Rock"
+    }
+  ]
+}
